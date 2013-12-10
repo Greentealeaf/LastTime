@@ -1,0 +1,4 @@
+LastTime
+========
+
+Aplikacja na androida
